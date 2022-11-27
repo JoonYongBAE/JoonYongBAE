@@ -1,5 +1,5 @@
-<div align=center><h1>📚 STACKS</h1></div>
 <h3>안녕하세요. JoonYongBAE의 개발 깃허브입니다.</h3>
+<div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white">
